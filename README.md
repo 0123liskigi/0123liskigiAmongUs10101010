@@ -49,13 +49,6 @@ First you will need protontricks, you can install it with your packager of choic
    <img src="screenshot.png">
 </p>
 
-## Special Thanks
-* [KulaGGin](https://github.com/KulaGGin) (Helped with some ImGui code for replay system)
-* [tomsa000](https://github.com/tomsa000) (Helped with fixing memory leaks and smart pointers)
-* Everyone else who contributed to the code and I couldn't list here. Thank you!
-
-## Contributing
-
 1. Fork it (<https://github.com/BitCrackers/AmongUsMenu/fork>)
 2. Create your feature branch (`git checkout -b feature/fooBar`)
 3. Commit your changes (`git commit -am 'Add some fooBar'`)
