@@ -60,7 +60,7 @@ EOSManager
 FullAccount
 SpawnFlags__Enum
 InnerNetObject
-PlainDoor__Array
+OpenableDoor__Array
 PlayerVoteArea
 PlayerVoteArea__Array
 SystemTypes__Enum
@@ -68,7 +68,6 @@ PlainShipRoom
 PlainShipRoom__Array
 ShipStatus_MapType__Enum
 ShipStatus
-StringNames__Enum
 SwitchSystem
 ISystemType
 Dictionary_2_TKey_TValue_Entry_SystemTypes_ISystemType_
@@ -109,9 +108,6 @@ PlayerControl__Array
 List_1_PlayerControl_
 DestroyableSingleton_1_HudManager___Fields
 HudManager
-Delegate__Fields
-MulticastDelegate__Fields
-Action_1_MapBehaviour_
 KeyboardJoystick
 ScreenJoystick
 MeetingHud_VoteStates__Enum
@@ -144,7 +140,8 @@ LimitedTime
 LimitedTimeStartEnd
 CosmeticData
 NamePlateData
-VisorData
+FollowerCamera__Fields
+AmongUsClient__Fields
 PetBehaviour
 PetData
 List_1_PetData_
@@ -196,7 +193,6 @@ NormalPlayerTask_TimerState__Enum
 NormalPlayerTask
 Palette
 ControlTypes__Enum
-Announcement
 SaveManager
 DestroyableSingleton_1_RoleManager_
 EngineerRole
@@ -204,7 +200,6 @@ RoleManager
 HatData
 HatData__Array
 List_1_HatData_
-GameOptionsDataParent
 StatsManager_Stats
 SkinLayer
 VoteSpreader__Fields
@@ -222,3 +217,11 @@ DestroyableSingleton_1_PlayerStorageManager___Fields
 PlayerStorageManager_CloudPlayerPrefs
 PlayerStorageManager__Fields
 UpdateState__Enum
+AbstractChatInputField__Fields
+FreeChatInputField__Fields
+FreeChatInputField
+MurderResultFlags__Enum
+FungleShipStatus
+OpenableDoor
+MushroomWallDoor
+MushroomDoorSabotageMinigame
